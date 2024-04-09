@@ -2,7 +2,6 @@
 
 ![Proof HTML](https://github.com/capita-7/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to Capita7 🎊
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+You can find Our Spectrum of service offering here and Recent work we are doing @Capita7
